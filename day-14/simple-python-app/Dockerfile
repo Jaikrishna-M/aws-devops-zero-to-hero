@@ -1,7 +1,7 @@
 # Base image
 FROM python:3.8
 
-# Set the working directory inside the container1
+# Set the working directory inside the container
 WORKDIR /app
 
 # Copy the requirements file
